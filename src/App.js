@@ -4,7 +4,7 @@ class App extends React.Component {
   render() {
     return (
       <h1>
-        React Form
+        React Form!
       </h1>
     );
   }
